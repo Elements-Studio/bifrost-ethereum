@@ -1,0 +1,19 @@
+{
+  "name": "bifrost-ethernum",
+  "version": "0.1.0",
+  "description": "bifrost cross-chain for ethernum",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starcoinorg/bifrost-ethernum"
+  },
+  "license": "Apache 2.0",
+  "dependencies": {
+    "@openzeppelin/contracts": "2.5.0",
+    "@truffle/hdwallet-provider": "^1.4.3"
+  }
+}
